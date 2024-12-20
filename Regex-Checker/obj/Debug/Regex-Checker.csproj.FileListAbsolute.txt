@@ -1,0 +1,10 @@
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\bin\Debug\Regex-Checker.exe.config
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\bin\Debug\Regex-Checker.exe
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\bin\Debug\Regex-Checker.pdb
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\obj\Debug\Regex-Checker.csproj.AssemblyReference.cache
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\obj\Debug\Regex_Checker.Form1.resources
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\obj\Debug\Regex_Checker.Properties.Resources.resources
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\obj\Debug\Regex-Checker.csproj.GenerateResource.cache
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\obj\Debug\Regex-Checker.csproj.CoreCompileInputs.cache
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\obj\Debug\Regex-Checker.exe
+E:\1-Programming\5-MyProjects\Regex-Checker\Regex-Checker\obj\Debug\Regex-Checker.pdb
